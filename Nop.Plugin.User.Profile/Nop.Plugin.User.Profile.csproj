@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Infrastructure\" />
+    <Folder Include="Data\Seeding\" />
     <Folder Include="Models\" />
   </ItemGroup>
 
