@@ -1,0 +1,5 @@
+C:\Users\rikud\OneDrive\Desktop\Website\Nop.Plugin.User.Profile\obj\Debug\net5.0\Nop.Plugin.User.Profile.csproj.AssemblyReference.cache
+C:\Users\rikud\OneDrive\Desktop\Website\Nop.Plugin.User.Profile\obj\Debug\net5.0\Nop.Plugin.User.Profile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rikud\OneDrive\Desktop\Website\Nop.Plugin.User.Profile\obj\Debug\net5.0\Nop.Plugin.User.Profile.AssemblyInfoInputs.cache
+C:\Users\rikud\OneDrive\Desktop\Website\Nop.Plugin.User.Profile\obj\Debug\net5.0\Nop.Plugin.User.Profile.AssemblyInfo.cs
+C:\Users\rikud\OneDrive\Desktop\Website\Nop.Plugin.User.Profile\obj\Debug\net5.0\Nop.Plugin.User.Profile.csproj.CoreCompileInputs.cache
